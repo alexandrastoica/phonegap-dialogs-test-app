@@ -17,8 +17,6 @@
         Chris P. Bowers
     </author>
 	
-	<preference name="phonegap-version" value="5.2.0" />
-	
 	
 	<!-- required for dialogs -->
 	<gap:plugin name="org.apache.cordova.dialogs"/>
