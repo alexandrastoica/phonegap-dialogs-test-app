@@ -10,14 +10,14 @@
     <name>Dialog Demo</name>
 
     <description>
-        A dialog, notification and toast message demonstration application
+        A dialog, notification and toast message demonstration application.
     </description>
 
     <author href="http://www.worcester.ac.uk/discover/chris-bowers.html" email="c.bowers@worc.ac.uk">
         Chris P. Bowers
     </author>
 	
-	<preference name="phonegap-version" value="3.7.0" />
+	<preference name="phonegap-version" value="5.2.0" />
 	
 	
 	<!-- required for dialogs -->
